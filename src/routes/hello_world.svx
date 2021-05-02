@@ -1,0 +1,16 @@
+---
+title: 'Hello world example'
+slug: 'hello_world'
+outline: 'A brief reference to the technologies used to create this website'
+tags: [ { name: 'Svelte Kit', link: 'https://kit.svelte.dev/' }, { name: 'Markdown', link: 'https://www.markdownguide.org/'} ]
+published_at: '5th Mai 2021'
+---
+
+<script>
+  //import './markdown.css'
+  //import PostHeader from '$lib/PostHeader.svelte'
+</script>
+
+# Hello world
+
+**This is markdown**
